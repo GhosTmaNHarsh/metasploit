@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-
+mv metasloit.sh $HOME
 apt install pv -y
 pkg install ruby -y
 gem install lolcat
