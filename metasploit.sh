@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
+#thanks for lokesh pandey
 mv metasloit.sh $HOME
 apt install pv -y
 pkg install ruby -y
